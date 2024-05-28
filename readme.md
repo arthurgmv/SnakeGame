@@ -1,0 +1,1 @@
+To start the game you have to run "main"
